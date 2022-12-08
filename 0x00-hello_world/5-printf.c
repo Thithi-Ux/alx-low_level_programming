@@ -5,7 +5,7 @@
  *
  * description: A C program using printf
  *
- * Return 0
+ * Return: Always 0 (Success)
  *
  */
 
