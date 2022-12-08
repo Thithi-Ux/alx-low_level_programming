@@ -2,8 +2,7 @@
 
 /**
  * main - Entry point
- * 
- * Description: A C program that uses output Puts
+ * Description: 'A C program that uses output Puts'
  *
  * Return: Always 0 (Success)
  *
