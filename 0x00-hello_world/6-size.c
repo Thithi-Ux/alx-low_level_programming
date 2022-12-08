@@ -5,7 +5,7 @@
  *
  * Description: 'A program that prints the size of types of comps'
  *
- * Return 0
+ * Return: Always 0 (Success)
  *
  */
 
