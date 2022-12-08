@@ -2,7 +2,8 @@
 
 /*
  * main - Entry point
- * description A program that prints the size of types of comps
+ *
+ * Description: 'A program that prints the size of types of comps'
  *
  * Return 0
  *
