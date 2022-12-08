@@ -3,7 +3,7 @@
 /*
  * main - Entry Point
  *
- * Description: A C program using printf
+ * description: A C program using printf
  *
  * Return 0
  *
