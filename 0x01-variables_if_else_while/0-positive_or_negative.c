@@ -7,7 +7,7 @@
  * Description: A C program that assigns a random number to a variable
  *
  * Return (0) Success
- * */
+ */
 
 int main(void)
 
