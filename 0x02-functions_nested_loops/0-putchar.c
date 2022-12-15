@@ -9,13 +9,13 @@
  */
 int main(void)
 {
-	int *c="_putchar"
+	char *c="_putchar";
 		while (*c)
 		{
 			putchar(*c);
 			c++;
 		}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
 
