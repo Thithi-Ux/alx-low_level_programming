@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * description a function that prints x10 times the alphabet in lowercase 
+ * description a function that prints x10 times the alphabet in lowercase
  * Return (0) success
  */
 void print_alphabet_x10(void)
