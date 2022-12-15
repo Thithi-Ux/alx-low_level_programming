@@ -5,7 +5,7 @@
  * description - A progrma that prints putchar
  *
  * Return: 0 Always
- */ 
+ */
 int main(void)
 {
 	char *c = "_putchar";
