@@ -2,9 +2,10 @@
 
 /**
  * _islower - Entry point
+ * @c: is the char to be checked
  * description a function that checks for lowercase character
  * 
- * Return (1) Success else return (0)
+ * Return (1) if char is lowercase, else  0
  *
  */
 
