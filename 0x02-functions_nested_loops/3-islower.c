@@ -4,7 +4,7 @@
  * _islower - Entry point
  * description a function that checks for lowercase character
  * 
- * Return (0) Success
+ * Return (1) Success else return (0)
  *
  */
 
