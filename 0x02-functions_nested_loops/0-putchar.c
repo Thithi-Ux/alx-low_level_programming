@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - printer putchar
  * description - A progrma that prints putchar
  *
- * Return (0)
+ * Return: 0 Always
  */ 
 int main(void)
 {
