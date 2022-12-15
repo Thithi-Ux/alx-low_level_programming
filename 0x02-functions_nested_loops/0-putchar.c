@@ -2,16 +2,14 @@
 
 /**
  * main - Entry point
+ * Description - A progrma that prints putchar
  *
- * description- a program that prints _putchar, followed by a new line.
- *
- * Retun 0 (Always)
+ * Return 0 always
  *
  */
-
 int main(void)
 {
-	char *c = "_putchar"
+	int *c="_putchar"
 		while (*c)
 		{
 			putchar(*c);
