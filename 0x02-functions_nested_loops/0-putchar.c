@@ -2,12 +2,12 @@
 
 /**
  * main - Entry point
- * Description - A progrma that prints putchar
+ * description - A progrma that prints putchar
  *
- * Return (0) Success 
- */
-
-int main(void)
+ * Return (0) Success
+ */ 
+ 
+ int main(void)
 {
 	char *c = "_putchar";
 		while (*c)
