@@ -6,8 +6,7 @@
  *
  * Return (0) Success
  */ 
- 
- int main(void)
+int main(void)
 {
 	char *c = "_putchar";
 		while (*c)
