@@ -1,10 +1,9 @@
-#ifndef MAIN
-#define main
+#ifndef MAIN_H
+#define main_H
+#include <stdio.h>
 
 #endif
 
-
-#include <stdio.h>
 #include "main.h"
 
 /**
