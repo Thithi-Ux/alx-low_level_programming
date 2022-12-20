@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - A program that assigns a random number to a variable
- * Description: A C program that assigns a random number to a variable
+ * description: A C program that assigns a random number to a variable
  *
  * Return (0) Success
  */
