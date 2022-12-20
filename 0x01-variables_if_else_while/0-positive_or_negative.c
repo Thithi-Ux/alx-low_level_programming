@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
+ * main - A program that assigns a random number to a variable
  * Description: A C program that assigns a random number to a variable
  *
  * Return (0) Success
