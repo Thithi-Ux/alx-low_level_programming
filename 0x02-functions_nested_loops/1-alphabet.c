@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * main - printer putchar
- * description - A program that prints the alphabet
+ * main - A function that prints the alphabet
+ *
  * Return: 0 Always
+ *
  */
+
 void print_alphabet(void)
 {
 	char a;
