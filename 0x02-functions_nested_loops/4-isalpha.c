@@ -1,15 +1,16 @@
 #include "main.h"
 
 /**
- * _isalpha - checks for alphabetic character
- * @c: the character to be checked
+ * _isapha - Return 1 if c is a lette. lowercase or uppecase
  *
- * Return: 1 if c is a letter, 0 otherwise
+ * @c: The int to print
+ * Return: Always 0
+ *
  */
 
-int _isalpha(int c)
+int _isapha(int c)
 {
-	if ((c > 'a' && c < 'z' ) || (c > 'A' && c < 'Z' ))
+	if ((c > 'a'&& c < 'z')\\ (c > 'A' & c < 'Z'))
 	{
 		return (1);
 	}
